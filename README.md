@@ -7,3 +7,8 @@ This GitHub repository contains a Jupyter notebook that processes the AI4Mars da
 ## Documentation
 
 [Research Report](./ai4mars-risk-classification-report.pdf)
+
+## Results
+
+-   82.6% accuracy achieved with EfficientB0 transfer learning and fine tuning
+-   87.6% model size reduction vs baseline DeepLabv3 used by JPL
